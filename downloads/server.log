@@ -1,0 +1,27 @@
+2024-10-23 23:28:21 INFO     Server starting up Running python 3.11.1 on win32
+2024-10-23 23:28:33 INFO     Redirecting / => /index.modified.html as modified version exists
+2024-10-23 23:28:35 INFO     Using our javascript network proxier
+2024-10-23 23:28:35 INFO     Redirecting /js/showcase.js => /js/showcase.modified.js as modified version exists
+2024-10-23 23:28:35 INFO     Redirecting /?m=bKMmiSNxWkA => /index.modified.html as modified version exists
+2024-10-23 23:28:35 INFO     Using our javascript network proxier
+2024-10-23 23:28:35 INFO     Redirecting /js/showcase.js => /js/showcase.modified.js as modified version exists
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetModelPolicies: graph of operationName: GetModelPolicies we are handling internally
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetModelViewPrefetch: graph of operationName: GetModelViewPrefetch we are handling internally
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:28:36 INFO     Handling a post request on /api/mp/models/graph?operation=GetSnapshots: graph of operationName: GetSnapshots we are handling internally
+2024-10-23 23:28:38 INFO     Handling a post request on /api/mp/models/graph?operation=GetRoomBounds: graph of operationName: GetRoomBounds we are handling internally
+2024-10-23 23:30:29 INFO     Redirecting / => /index.modified.html as modified version exists
+2024-10-23 23:30:29 INFO     Using our javascript network proxier
+2024-10-23 23:30:29 INFO     Redirecting /js/showcase.js => /js/showcase.modified.js as modified version exists
+2024-10-23 23:30:29 INFO     Redirecting /?m=bKMmiSNxWkA => /index.modified.html as modified version exists
+2024-10-23 23:30:29 INFO     Using our javascript network proxier
+2024-10-23 23:30:29 INFO     Redirecting /js/showcase.js => /js/showcase.modified.js as modified version exists
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetModelPolicies: graph of operationName: GetModelPolicies we are handling internally
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetModelViewPrefetch: graph of operationName: GetModelViewPrefetch we are handling internally
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetLayers: graph of operationName: GetLayers we are handling internally
+2024-10-23 23:30:30 INFO     Handling a post request on /api/mp/models/graph?operation=GetSnapshots: graph of operationName: GetSnapshots we are handling internally
+2024-10-23 23:30:31 INFO     Handling a post request on /api/mp/models/graph?operation=GetRoomBounds: graph of operationName: GetRoomBounds we are handling internally
